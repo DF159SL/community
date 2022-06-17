@@ -36,7 +36,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.70</version>
+            <version>1.2.83</version>
         </dependency>
         <!--引入httpclient的jar包-->
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
